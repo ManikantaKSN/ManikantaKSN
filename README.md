@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ManikantaKSN&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ManikantaKSN&limit=5&theme=onedark&combine_all_yearly_contributions=true)
