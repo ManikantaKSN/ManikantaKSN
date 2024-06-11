@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hi 👋, I'm **Manikanta**<br>🔭 I’m currently working on **Building websites using MERN stack**<br>👯 I’m looking to collaborate on **MERN stack projects**<br>🤝 I’m looking for help with **DSA, MERN stack, Web3**<br>🌱 I’m currently learning **DSA, MERN stack, Web3, Android Development**<br>💬 Ask me about Java, Javascript, React, Node<br>
+⚡Hi 👋, I'm **Manikanta**<br>🔭 I’m currently working on **Building websites using MERN stack**<br>👯 I’m looking to collaborate on **MERN stack projects**<br>🤝 I’m looking for help with **DSA, MERN stack, Web3**<br>🌱 I’m currently learning **DSA, MERN stack, Web3, Android Development**<br>💬 Ask me about **Java, Javascript, React, Node**<br>
 
 
 ## 🌐 Socials:
